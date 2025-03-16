@@ -1,0 +1,33 @@
+{
+  "name": "contact-backend-api",
+  "version": "1.0.0",
+  "description": "This is an express project for a backend api that manages contacts",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Francesco Durante",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-async-handler": "^1.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.14.2",
+    "mongoose": "^8.12.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frax11/Contact-management-app-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/frax11/Contact-management-app-backend/issues"
+  },
+  "homepage": "https://github.com/frax11/Contact-management-app-backend#readme"
+}
