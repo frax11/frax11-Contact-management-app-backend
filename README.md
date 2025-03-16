@@ -1,7 +1,7 @@
 # Contact-management-app-backend
 ## Overview
 
-The Contact Management App Backend is a RESTful API built with Node.js and Express. It provides endpoints for managing contacts, including creating, reading, updating, and deleting contact information.
+It provides endpoints for managing contacts, including creating, reading, updating, and deleting contact information.
 
 ## Features
 
